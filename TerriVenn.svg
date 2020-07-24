@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="TerriVennSVG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="450" height="450" viewBox="0 0 450 450" enable-background="new 0 0 450 450" xml:space="preserve">
+<svg version="1.1" id="TerriVennSVG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewBox="0 0 402 375" enable-background="new 0 0 402 375" xml:space="preserve">
 <desc>6 set Circle Euler Diagram.
 Coded freehand by Terri Bedore at and for terribedore.com
 </desc>
 <g id="Diagram">
     <g id="dev">
-        <circle id="dev-circle" cx="150" cy="125" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="dev-circle" cx="150" cy="101" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="dev-title">
-            <text x="85" y="75" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Website<tspan x="75" y="90" >Developer</tspan></text>
+            <text x="85" y="51" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Website<tspan x="75" y="66" >Developer</tspan></text>
         </g>
     </g>
     <g id="biz">
-        <circle id="biz-circle" cx="101" cy="210" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="biz-circle" cx="101" cy="186" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="biz-title">
-            <text x="15" y="210" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Business<tspan x="20" y="225" >Owner</tspan></text>
+            <text x="15" y="186" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Business<tspan x="20" y="201" >Owner</tspan></text>
         </g>
     </g>
     <g id="curator">
-        <circle id="curator-circle" cx="150" cy="298" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="curator-circle" cx="150" cy="274" r="100" fill="green" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="curator-title">
-            <text x="80" y="335" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Museum<tspan x="85" y="350" >Curator </tspan><tspan x="90" y="365" >(retired)</tspan></text>
+            <text x="80" y="311" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Museum<tspan x="85" y="326" >Curator </tspan><tspan x="90" y="341" >(retired)</tspan></text>
         </g>
     </g>
     <g id="fam">
-        <circle id="fam-circle" cx="250" cy="125" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="fam-circle" cx="250" cy="101" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="fam-title">
-            <text x="260" y="80" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Family</text>
+            <text x="260" y="58" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">Family</text>
         </g>
     </g>
     <g id="fire">
-        <circle id="fire-circle" cx="301" cy="210" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="fire-circle" cx="301" cy="186" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="fire-title">
-            <text x="340" y="215" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">FI/RE</text>
+            <text x="340" y="193" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">FI/RE</text>
         </g>
     </g>
     <g id="diy">
-        <circle id="diy-circle" cx="250" cy="298" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
+        <circle id="diy-circle" cx="250" cy="274" r="100" fill="blue" fill-opacity="0.5" stroke="black" stroke-width="1"/>
         <g id="diy-title">
-            <text x="260" y="350" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">DIY'er</text>
+            <text x="260" y="326" font-size="15px" font-weight="bold" font-family="Josefin Sans, sans-serif">DIY'er</text>
         </g>
     </g>
 </g>
     <!-- Show outline of viewport using 'rect' element.
-    NOTE: remove this before publishing! -->
-    <rect x="0" y="0" width="402" height="402"
+    TODO: remove this before publishing! -->
+    <rect x="0" y="0" width="100%" height="100%"
     fill="none" stroke="blue" stroke-width="1" />
     </svg>
